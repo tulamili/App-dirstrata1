@@ -1,0 +1,6 @@
+App-dirstrata1-*
+MYMETA.*
+Makefile
+blib/
+pm_to_blib
+
