@@ -6,7 +6,7 @@ our $DATE = '2023-04-07T16:00+09:00' ;
 
 =head1 NAME
 
-App::dirstrata1 -- Shows the longest directory branch paths (most apart each other) of a given directory.
+App::dirstrata1 -- Shows how many files exists at each depth from a specified directory.
 
 =head1 SYNOPSIS
 
